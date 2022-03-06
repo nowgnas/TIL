@@ -175,3 +175,5 @@ const App = () => {
 - `<BrouserRouter>`로 감싸서 Router Context를 제공해야 된다
 - v6 에서는 `Switch`는 `Routes`, `useHistory`는 `useNavigate` 로 변경되었다
 - 이외에도 v6로 넘어오면서 변경된 사항이 있다
+
+---
