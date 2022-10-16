@@ -23,6 +23,9 @@
 ## Network
 
 -   [OSI 7 Layer](https://github.com/nowgnas/CS-Study/tree/master/network/osi7layer)
+-   [UDP](https://github.com/nowgnas/CS-Study/tree/master/network/udp)
+-   [3 way handshake and 4 way handshake](https://github.com/nowgnas/CS-Study/tree/master/network/3wayhandshake)
+
 <!--
 https://github.com/nowgnas/TIL/tree/master/
 /폴더
