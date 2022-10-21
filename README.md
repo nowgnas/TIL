@@ -19,6 +19,7 @@
 ## Spring
 
 -   [AOP](/2022/10/spring/AOP/)
+-   [spring boot structure and layerd architecture](/2022/10/spring/bootstructure/)
 
 ## Encryption
 
