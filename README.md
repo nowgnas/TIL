@@ -21,6 +21,7 @@
 -   [AOP](/2022/10/spring/AOP/)
 -   [spring boot structure and layerd architecture](/2022/10/spring/bootstructure/)
 -   [spring boot와 react 프로젝트 만들기](https://nowgnas.github.io/posts/springboot1/)
+-   [동기와 비동기 동작](https://nowgnas.github.io/posts/asynccontroller/)
 
 ## Encryption
 
