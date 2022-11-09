@@ -7,6 +7,10 @@
 
 -   [SPA와 react-router](https://github.com/nowgnas/TIL/tree/master/202203/react#2022-03-05)
 
+## Vue
+
+-   [vue 프로젝트 생성과 todo list 만들기](https://nowgnas.github.io/posts/vuetodo/)
+
 ## Python
 
 -   [itertools](https://github.com/nowgnas/TIL/tree/master/202203/python#2022-03-04)
